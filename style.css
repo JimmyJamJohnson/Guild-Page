@@ -1,0 +1,45 @@
+body {
+    font-family: system-ui;
+    margin: 30px;
+    background-image: url(images_CD/bananas.webp);
+}
+
+.container {
+
+}
+
+.header {
+    background-image: url(images_CD/Vivec.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-top: 80px;
+    padding-bottom: 390px;
+    color: white;
+}
+
+.title {
+    
+    text-align: center;
+    font-family: 'ElvenCommonSpeak', sans-serif;
+    font-size: 50px;
+    color: aqua;
+}
+
+.intro {
+    text-align: center;
+    font-size: 30px;
+    color: gold;
+    font-family: 'ElvenCommonSpeak', sans-serif;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: -200px;
+}
+
+.daddy-code {
+    font-family: 'ElvenCommonSpeak', sans-serif;
+    font-size: 40px;
+}
+
+.creed {
+
+}
